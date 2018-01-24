@@ -39,7 +39,7 @@ a{
 .content{
     width: 70%;
     float: left;
-    background-color: #ddd;
+    background-color: #eee;
     min-height: 500px;
 }
 
@@ -54,4 +54,19 @@ a{
 p{
     margin: 20px;
 }
+
+.blog-post{
+   margin: 10px;
+   background-color: #fff;
+   border-color: #bbb;
+   border-style: solid;
+   border-width: 1px;
+   border-radius: 3px;
+}
+
+img{
+    float:left;
+    margin: 10px;
+}
+
 
